@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<response>
+  <result>0</result>
+  <cuttotal>28</cuttotal>
+  <total>274</total>
+  <shareprefix>我在 @满座 手机客户端（app.manzuo.com）发现了一款产品，觉得不错，推荐给大家：</shareprefix>
+  <buyprefix>我刚通过 @满座 手机客户端（app.manzuo.com）购买了一款产品，觉得不错，推荐给大家：</buyprefix>
+  <list>
+    <promotion>
+      <id>224130</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=224130&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/prm/22/224130.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/22/224130/06834354_w_more.jpg]]></wsdimg>
+      <name><![CDATA[星美国际影城百老汇影城兑换券]]></name>
+      <multipagetitle><![CDATA[【15店通用】星美国际影城百老汇影城16家分店通用兑换券！2D/3D可兑！]]></multipagetitle>
+      <price>100.0</price>
+      <priceoff>22.5</priceoff>
+      <currentdealcount>1645</currentdealcount>
+      <starttime>2014-02-18 00:00:00</starttime>
+      <endtime>2014-09-28 23:59:59</endtime>
+      <sevenrefundallowed>0</sevenrefundallowed>
+      <expirerefundallowed>0</expirerefundallowed>
+      <district>北京</district>
+      <type2>2</type2>
+      <hassub>-1</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>87574</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=87574&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/prm/8/87574.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/8/87574/94257167_w_more.jpg]]></wsdimg>
+      <name><![CDATA[维尔纳斯美味蛋糕6选1]]></name>
+      <multipagetitle><![CDATA[【五环内免费配送】维尔纳斯美味蛋糕6选1！纯正进口食材，健康无添加！]]></multipagetitle>
+      <price>459.0</price>
+      <priceoff>108.0</priceoff>
+      <currentdealcount>1352</currentdealcount>
+      <starttime>2013-03-26 00:00:01</starttime>
+      <endtime>2014-10-29 23:59:59</endtime>
+      <sevenrefundallowed>1</sevenrefundallowed>
+      <expirerefundallowed>1</expirerefundallowed>
+      <district>东直门</district>
+      <type2>1</type2>
+      <hassub>-1</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>200164</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=200164&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/prm/20/200164.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/20/200164/43005083_w_more.jpg]]></wsdimg>
+      <name><![CDATA[南宫温泉水世界]]></name>
+      <multipagetitle><![CDATA[【丰台区】南宫温泉水世界！水世界所有项目通玩！]]></multipagetitle>
+      <price>198.0</price>
+      <priceoff>125.0</priceoff>
+      <currentdealcount>998</currentdealcount>
+      <starttime>2014-01-03 00:00:00</starttime>
+      <endtime>2014-09-28 23:59:59</endtime>
+      <sevenrefundallowed>0</sevenrefundallowed>
+      <expirerefundallowed>0</expirerefundallowed>
+      <district>看丹桥</district>
+      <type2>3</type2>
+      <hassub>-1</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>277330</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=277330&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/phs/27/277330.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/27/277330/68262840_w_more.jpg]]></wsdimg>
+      <name><![CDATA[中奥凯富酒店自助餐厅午餐]]></name>
+      <multipagetitle><![CDATA[【亚运村】中奥凯富酒店自助餐厅午餐1位！百余种令人垂涎欲滴的美食！节假日通用！]]></multipagetitle>
+      <price>128.0</price>
+      <priceoff>80.0</priceoff>
+      <currentdealcount>900</currentdealcount>
+      <starttime>2014-04-23 00:00:00</starttime>
+      <endtime>2014-10-01 23:59:59</endtime>
+      <sevenrefundallowed>1</sevenrefundallowed>
+      <expirerefundallowed>1</expirerefundallowed>
+      <district>亚运村</district>
+      <type2>1</type2>
+      <hassub>0</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>334387</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=334387&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/prm/33/334387.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/33/334387/33070199_w_more.jpg]]></wsdimg>
+      <name><![CDATA[眉州东坡酒楼卡]]></name>
+      <multipagetitle><![CDATA[【全北京通用】眉州东坡酒楼卡1张！节假日通用，超长有效期！]]></multipagetitle>
+      <price>1000.0</price>
+      <priceoff>888.0</priceoff>
+      <currentdealcount>879</currentdealcount>
+      <starttime>2014-06-13 00:00:01</starttime>
+      <endtime>2015-04-02 23:59:59</endtime>
+      <sevenrefundallowed>0</sevenrefundallowed>
+      <expirerefundallowed>0</expirerefundallowed>
+      <district>北京</district>
+      <type2>1</type2>
+      <hassub>-1</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>334382</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=334382&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/phs/33/334382.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/33/334382/14458936_w_more.jpg]]></wsdimg>
+      <name><![CDATA[金鼎轩500元储值卡]]></name>
+      <multipagetitle><![CDATA[【北京12店通用】金鼎轩储值卡一张！金鼎轩所有门面（除三元桥店）均可使用！]]></multipagetitle>
+      <price>500.0</price>
+      <priceoff>439.5</priceoff>
+      <currentdealcount>854</currentdealcount>
+      <starttime>2014-06-13 00:00:00</starttime>
+      <endtime>2015-04-02 23:59:59</endtime>
+      <sevenrefundallowed>0</sevenrefundallowed>
+      <expirerefundallowed>0</expirerefundallowed>
+      <district>多商圈</district>
+      <type2>1</type2>
+      <hassub>0</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>334366</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=334366&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/phs/33/334366.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/33/334366/80092587_w_more.jpg]]></wsdimg>
+      <name><![CDATA[海底捞500元储值卡]]></name>
+      <multipagetitle><![CDATA[【全国通用】海底捞储值卡1张！1张起送！全国包邮！]]></multipagetitle>
+      <price>500.0</price>
+      <priceoff>439.0</priceoff>
+      <currentdealcount>799</currentdealcount>
+      <starttime>2014-06-13 00:00:00</starttime>
+      <endtime>2015-04-02 23:59:59</endtime>
+      <sevenrefundallowed>0</sevenrefundallowed>
+      <expirerefundallowed>0</expirerefundallowed>
+      <district>北京</district>
+      <type2>1</type2>
+      <hassub>0</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>171366</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=171366&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/phs/17/171366.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/17/171366/06717243_w_more.jpg]]></wsdimg>
+      <name><![CDATA[佳美口腔医院洗牙套餐]]></name>
+      <multipagetitle><![CDATA[【20店通用】佳美口腔医院洗牙套餐！另有其他套餐可选！]]></multipagetitle>
+      <price>350.0</price>
+      <priceoff>168.0</priceoff>
+      <currentdealcount>798</currentdealcount>
+      <starttime>2013-11-15 00:00:00</starttime>
+      <endtime>2014-11-10 23:59:59</endtime>
+      <sevenrefundallowed>1</sevenrefundallowed>
+      <expirerefundallowed>1</expirerefundallowed>
+      <district>北京</district>
+      <type2>4</type2>
+      <hassub>0</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>275886</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=275886&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/prm/27/275886.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/27/275886/21498613_w_more.jpg]]></wsdimg>
+      <name><![CDATA[坪亭铁板烧代金券]]></name>
+      <multipagetitle><![CDATA[【3店通用】坪亭铁板烧代金券1张！无需预约，一张免费配送！]]></multipagetitle>
+      <price>228.0</price>
+      <priceoff>182.0</priceoff>
+      <currentdealcount>663</currentdealcount>
+      <starttime>2014-04-17 00:00:01</starttime>
+      <endtime>2014-11-28 23:59:59</endtime>
+      <sevenrefundallowed>0</sevenrefundallowed>
+      <expirerefundallowed>0</expirerefundallowed>
+      <district>北京</district>
+      <type2>1</type2>
+      <hassub>-1</hassub>
+      <flag>0</flag>
+    </promotion>
+    <promotion>
+      <id>410447</id>
+      <surl><![CDATA[http://mps.manzuo.com/mps/pdstt?id=410447&pg=0&f=cat]]></surl>
+      <durl><![CDATA[http://mp.manzuo.com/china/prm/41/410447.xml]]></durl>
+      <wsdimg><![CDATA[http://p0.manzuo.com/41/410447/38149308_w_more.jpg]]></wsdimg>
+      <name><![CDATA[UME国际影城2、3D通兑电影票]]></name>
+      <multipagetitle><![CDATA[【2店通用】UME国际影城2、3D通兑电影票1张！4张起用，超长有效期！]]></multipagetitle>
+      <price>45.0</price>
+      <priceoff>10.5</priceoff>
+      <currentdealcount>652</currentdealcount>
+      <starttime>2014-08-15 00:00:00</starttime>
+      <endtime>2015-03-30 23:59:59</endtime>
+      <sevenrefundallowed>0</sevenrefundallowed>
+      <expirerefundallowed>0</expirerefundallowed>
+      <district>北京</district>
+      <type2>2</type2>
+      <hassub>-1</hassub>
+      <flag>0</flag>
+    </promotion>
+  </list>
+</response>
